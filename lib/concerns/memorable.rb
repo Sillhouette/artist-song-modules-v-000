@@ -6,4 +6,9 @@ module Memorable
   def count
     self.@@artists.count
   end
+
+  def all
+    @@artists;
+    @@songs;
+  end
 end
