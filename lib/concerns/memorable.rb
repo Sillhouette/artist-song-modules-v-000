@@ -7,11 +7,3 @@ module Memorable
     @@artists.count
   end
 end
-
-module findable
-
-end
-
-module Paramable
-
-end
